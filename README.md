@@ -1,5 +1,5 @@
 # ENIGMA_Addiction_Brainhack_2026
 ENIGMA_Addiction_Brainhack_2026
 
-Location = Montreal, Canada
+Location = Montreal, Canada\n
 Tutorial Day: 10.02.2026
